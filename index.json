@@ -1,0 +1,9 @@
+{
+  "schemaVersion": 1,
+  "skins": [
+    {
+      "id": "community.discord-voice",
+      "repository": "https://github.com/Huddle-Up-Forge/webspeak-skin-discord-voice"
+    }
+  ]
+}
