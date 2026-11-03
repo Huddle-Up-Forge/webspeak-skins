@@ -4,6 +4,18 @@
     {
       "id": "community.discord-voice",
       "repository": "https://github.com/Huddle-Up-Forge/webspeak-skin-discord-voice"
+    },
+    {
+      "id": "persona3",
+      "repository": "https://github.com/JhHarry/webspeak-skin-persona3"
+    },
+    {
+      "id": "persona4",
+      "repository": "https://github.com/JhHarry/webspeak-skin-persona4"
+    },
+    {
+      "id": "persona5",
+      "repository": "https://github.com/JhHarry/webspeak-skin-persona5"
     }
   ]
 }
