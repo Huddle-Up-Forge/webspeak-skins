@@ -16,6 +16,10 @@
     {
       "id": "persona5",
       "repository": "https://github.com/JhHarry/webspeak-skin-persona5"
+    },
+    {
+      "id": "community.ts3-classic-console",
+      "repository": "https://github.com/Funvvell/webspeak-skin-classic"
     }
   ]
 }
